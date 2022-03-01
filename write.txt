@@ -1,2 +1,2 @@
-Hello,F123456
-Hello2,F2123456
+/tmp/test/1.jpg,cat
+/tmp/test/2.jpg,dog
